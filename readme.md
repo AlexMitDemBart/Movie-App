@@ -1,6 +1,7 @@
 # Description
 
-Movie app which showing the currently most popular movies
+Films application which shows the most recent films by default. 
+You can search for films in the database using the search function.
 
 ## Image
 
